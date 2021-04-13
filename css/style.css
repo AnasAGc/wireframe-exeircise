@@ -33,3 +33,16 @@ header img {
     margin-left: 0;
     display: inline-block;
 }
+
+
+footer{
+
+    clear: both;
+    font-weight: bold;
+    height: 100;
+    background: rgb(97, 91, 91);
+    width: 100%;
+
+
+
+}
