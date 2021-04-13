@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+
+    position: relative;
+}
+
+header nav ul  {
+
+    margin-right: 10px;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+}
+header nav ul li{
+    display: table-cell;
+    padding: 1em;
+    color: rgb(214, 52, 52);
+    background: rgb(97, 91, 91);
+    font-weight: bold;
+
+}
+
+header img {
+    position: absolute;
+    margin-left: 0;
+    display: inline-block;
+}
