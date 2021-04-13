@@ -12,45 +12,6 @@ header{
 }
 
 
-main div { 
-    
-    margin: 30px 160px 15px 160px;
-}
-
-
-
-header nav ul  {
-
-    margin-right: 10px;
-    padding: 0;
-    overflow: hidden;
-    list-style: none;
-    display: table;
-    table-layout: fixed;
-    width: 100%;
-    text-align: center;
-    border-radius: 5px;
-}
-
-
-
-    
-#first{
-
-  display: block;
-  margin-left: auto;
-  margin-right: auto;  
-    padding: 10px;
- }
-
-main div {
-
-display: flex;
-margin-left: 370px;
-margin-right: auto;
-}
-
-
 
 header nav ul li{
     display: table-cell;
@@ -67,25 +28,64 @@ header img {
     display: inline-block;
 }
 
-main article p {
-    display: inline-block;
+header nav ul  {
+
+    margin-right: 10px;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+
+
+main div { 
     
+    margin: 30px 160px 15px 160px;
 }
 
+    
+#first{
 
-main section img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+  padding: 10px;
 
-    position: relative;
+ }
 
-    padding: 10px;
+ .e01{
+    display: flex;
+    margin-left: 230px;
+ }
 
-} 
+ main article img {
+     padding: 20px;
+ }
 
-main article img {
-    display: inline-block;
-    float: right;
-    padding: 10px;
-}
+ main section {
+
+    margin: 30px 160px 15px 160px;
+
+ }
+ main section img {
+     display: inline-block;
+     margin: 0px 0px 15px 80px;
+ }
+
+ 
+  
+ main section p {
+     display: inline-block;
+     width: 500px;
+
+
+ }
 
 
 
